@@ -1,0 +1,1 @@
+jq '.[] | .breed' catfacts.json
